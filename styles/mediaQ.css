@@ -1,0 +1,16 @@
+@media (max-width: 500px) {
+  body {
+    align-items: flex-start;
+  }
+  #container {
+    transform: scale(0.85);
+    min-height: 93%;
+    min-width: 400px;
+  }
+}
+@media (max-width: 400px) {
+  #container {
+    transform: scale(0.75);
+    min-height: 93%;
+  }
+}

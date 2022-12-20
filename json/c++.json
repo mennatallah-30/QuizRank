@@ -1,0 +1,250 @@
+[
+     {
+          "title" : "Which of the following is file extension used in c++ ?",
+          "answer_1" : ".c++",
+          "answer_2" : ".cpp",
+          "answer_3" : ".cp",
+          "answer_4" : ".c",
+          "right_answer" : ".cpp"
+     },
+     {
+          "title" : "Which of the following is a correct identifier in C++ ?",
+          "answer_1" : "var1",
+          "answer_2" : "1var",
+          "answer_3" : "$var",
+          "answer_4" : "var$",
+          "right_answer" : "var1"
+     },
+     {
+          "title" : "Which of the following is not a type of Constructor in C++ ?",
+          "answer_1" : "Default",
+          "answer_2" : "Parameterized",
+          "answer_3" : "Friend",
+          "answer_4" : "Copy",
+          "right_answer" : "Friend"
+     },
+     {
+          "title" : "Which of the following correctly declares an array in C++ ?",
+          "answer_1" : "array{10};",
+          "answer_2" : "array array[10];",
+          "answer_3" : "int array;",
+          "answer_4" : "int array[10];",
+          "right_answer" : "int array[10];"
+     },
+     {
+          "title" : "What is the size of wchar_t in C++ ?",
+          "answer_1" : "number of bits in the system",
+          "answer_2" : "2 or 4",
+          "answer_3" : "2",
+          "answer_4" : "4",
+          "right_answer" : "number of bits in the system"
+     },
+     {
+          "title" : "Which is more effective while calling the C++ functions ?",
+          "answer_1" : "Call by object",
+          "answer_2" : "Call by reference",
+          "answer_3" : "Call by pointer",
+          "answer_4" : "Call by value",
+          "right_answer" : "Call by reference"
+     },
+     {
+          "title" : "Which of the following is used to terminate the function declaration in C++ ?",
+          "answer_1" : ":",
+          "answer_2" : "]",
+          "answer_3" : ";",
+          "answer_4" : "^",
+          "right_answer" : ";"
+     },
+     {
+          "title" : "Which keyword is used to define the macros in c++ ?",
+          "answer_1" : "#macro",
+          "answer_2" : "#define",
+          "answer_3" : "let",
+          "answer_4" : "None of this",
+          "right_answer" : "#define"
+     },
+     {
+          "title" : "Which of the following symbol is used to declare the preprocessor directives in C++ ?",
+          "answer_1" : "$",
+          "answer_2" : "#",
+          "answer_3" : "%",
+          "answer_4" : "*",
+          "right_answer" : "#"
+     },
+     {
+          "title" : "What is meant by a polymorphism in C++ ?",
+          "answer_1" : "class having single form",
+          "answer_2" : "class having two forms",
+          "answer_3" : "class having four forms",
+          "answer_4" : "class having many forms",
+          "right_answer" : "class having many forms"
+     },
+     {
+          "title" : "Which concept allows you to reuse the written code in C++ ?",
+          "answer_1" : "Inheritance",
+          "answer_2" : "Polymorphism",
+          "answer_3" : "Encapsulation",
+          "answer_4" : "Abstraction",
+          "right_answer" : "Inheritance"
+     },
+     {
+          "title" : "How you can get the input \"n\" from user in c++ ?",
+          "answer_1" : "get&gt;&gt;x;",
+          "answer_2" : "cin&gt;&gt;x;",
+          "answer_3" : "let x = prompt()",
+          "answer_4" : "None of this",
+          "right_answer" : "cin&gt;&gt;x;"
+     },
+     {
+          "title" : "Which of the following is the correct syntax to add the header file in the C++ program ?",
+          "answer_1" : "#include &lt;cmath&gt;",
+          "answer_2" : "#include \"cmath\"",
+          "answer_3" : "&lt;include&gt; \"cmth\"",
+          "answer_4" : "None of this",
+          "right_answer" : "#include &lt;cmath&gt;"
+     },
+     {
+          "title" : "Which of the following is the correct syntax to print the message in C++ language ?",
+          "answer_1" : "out &lt;&lt;\"Hello world!\";",
+          "answer_2" : "cout &lt;&lt;\"Hello world!\";",
+          "answer_3" : "print &lt;&lt;\"Hello world!\";",
+          "answer_4" : "Cout &lt;&lt;\"Hello world!\";",
+          "right_answer" : "cout &lt;&lt;\"Hello world!\";"
+     },
+     {
+          "title" : "Which of the following is the address operator ?",
+          "answer_1" : "#",
+          "answer_2" : "$;",
+          "answer_3" : "&",
+          "answer_4" : "@",
+          "right_answer" : "&"
+     },
+     {
+          "title" : "The programming language that has the ability to create new data types is called ?",
+          "answer_1" : "Encapsulated",
+          "answer_2" : "Overloaded;",
+          "answer_3" : "Extensible",
+          "answer_4" : "Reprehensible",
+          "right_answer" : "Extensible"
+     },
+     {
+          "title" : "Which of the following is the correct syntax to read the single character to console in the C++ language ?",
+          "answer_1" : "Read ch()",
+          "answer_2" : "get(ch)",
+          "answer_3" : "getLine(ch)",
+          "answer_4" : "Scanf(ch)",
+          "right_answer" : "get(ch)"
+     },
+     {
+          "title" : "Which of the following comment syntax is correct to create a single-line comment in the C++ program ?",
+          "answer_1" : "/**/",
+          "answer_2" : "//",
+          "answer_3" : "#",
+          "answer_4" : "/*",
+          "right_answer" : "//"
+     },
+     {
+          "title" : "What is language type type of c++ ?",
+          "answer_1" : "High-level Language",
+          "answer_2" : "Middle-level language",
+          "answer_3" : "Low-level language",
+          "answer_4" : "None of this",
+          "right_answer" : "Middle-level language"
+     },
+     {
+          "title" : "For inserting a new line in C++ program, which one of the following statements can be used ?",
+          "answer_1" : "\\n",
+          "answer_2" : "\\t",
+          "answer_3" : "\\newLine",
+          "answer_4" : "\\r",
+          "right_answer" : "\\n"
+     },
+     {
+          "title" : "To get value of the fifth element in an array what will ba the index ?",
+          "answer_1" : "3",
+          "answer_2" : "5",
+          "answer_3" : "4",
+          "answer_4" : "6",
+          "right_answer" : "4"
+     },
+     {
+          "title" : "Which type of memory is used by an Array in C++ programming language ?",
+          "answer_1" : "Contiguous",
+          "answer_2" : "None-contiguous",
+          "answer_3" : "Both A and B",
+          "answer_4" : "Not mentioned",
+          "right_answer" : "Contiguous"
+     },
+     {
+          "title" : "Which types of arrays are always considered as linear arrays ?",
+          "answer_1" : "Multi-dimensional",
+          "answer_2" : "Single-dimensional",
+          "answer_3" : "Both A & B",
+          "answer_4" : "None of this",
+          "right_answer" : "Single-dimensional"
+     },
+     {
+          "title" : "How many types of elements can an array store ?",
+          "answer_1" : "Same types of elements",
+          "answer_2" : "Char Types",
+          "answer_3" : "Int Types",
+          "answer_4" : "Both B & C",
+          "right_answer" : "Same types of elements"
+     },
+     {
+          "title" : "Which of the following can be considered as the members that can be inherited but not accessible in any class ?",
+          "answer_1" : "Public",
+          "answer_2" : "Protected",
+          "answer_3" : "Private",
+          "answer_4" : "Both A & C",
+          "right_answer" : "Private"
+     },
+     {
+          "title" : "Which one of the following cannot be used with the virtual keyword ?",
+          "answer_1" : "Constructor",
+          "answer_2" : "Destructor",
+          "answer_3" : "Member function",
+          "answer_4" : "None of the above",
+          "right_answer" : "Constructor"
+     },
+     {
+          "title" : "Which of the following is not a kind of inheritance in c++ ?",
+          "answer_1" : "Multiple",
+          "answer_2" : "Distributed",
+          "answer_3" : "Multi-level",
+          "answer_4" : "Hierarchal",
+          "right_answer" : "Distributed"
+     },
+     {
+          "title" : "Which type of approach is used by the C++ language ?",
+          "answer_1" : "Right to left",
+          "answer_2" : "Top to bottom",
+          "answer_3" : "Left to right",
+          "answer_4" : "Bottom-up",
+          "right_answer" : "Bottom-up"
+     },
+     {
+          "title" : "Which of the following concept refers to adding new components to the program at the run time ?",
+          "answer_1" : "Dynamic Loading",
+          "answer_2" : "Dynamic binding",
+          "answer_3" : "Data hiding",
+          "answer_4" : "Both A & B",
+          "right_answer" : "Data hiding"
+     },
+     {
+          "title" : "Which one of the following cannot be a friend in C++ ?",
+          "answer_1" : "Class",
+          "answer_2" : "Object",
+          "answer_3" : "Function",
+          "answer_4" : "Both A & B",
+          "right_answer" : "Object"
+     },
+     {
+          "title" : "Among the following given options, which can be considered as a member of a class ?",
+          "answer_1" : "Class variable",
+          "answer_2" : "Class functions",
+          "answer_3" : "Member variable",
+          "answer_4" : "Both A and B",
+          "right_answer" : "Member variable"
+     } 
+]

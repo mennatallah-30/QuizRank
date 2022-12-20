@@ -1,0 +1,98 @@
+[
+     {
+          "title" : "What is a correct syntax to output \"Hello World\" in Python?",
+          "answer_1" : "cout&lt;&lt;\"Hello World\"",
+          "answer_2" : "console.log(\"Hello World\")",
+          "answer_3" : "System.out.print(\"Hello World\")",
+          "answer_4" : "print(\"Hello World\")",
+          "right_answer" : "print(\"Hello World\")"
+     },
+     {
+          "title" : "What happens when '2' == 2 is executed?",
+          "answer_1" : "True",
+          "answer_2" : "False",
+          "answer_3" : "ValueError occurs",
+          "answer_4" : "TypeError occurs",
+          "right_answer" : "False"
+     },
+     {
+          "title" : "How do you insert comments in Python code?",
+          "answer_1" : "# comment",
+          "answer_2" : "/**/ comment",
+          "answer_3" : "// comment",
+          "answer_4" : "/* comment */",
+          "right_answer" : "# comment"
+     },
+     {
+          "title" : "How is a code block indicated in Python ?",
+          "answer_1" : "Brackets",
+          "answer_2" : "key",
+          "answer_3" : "Indentation",
+          "answer_4" : "None of this",
+          "right_answer" : "Indentation"
+     },
+     {
+          "title" : "Which of the following types of loops are not supported in Python?",
+          "answer_1" : "for",
+          "answer_2" : "while",
+          "answer_3" : "do while",
+          "answer_4" : "None of this",
+          "right_answer" : "do while"
+     },
+     {
+          "title" : "Which one is a legal variable name?",
+          "answer_1" : "-myvar",
+          "answer_2" : "myVar1",
+          "answer_3" : "my-var",
+          "answer_4" : "my@var",
+          "right_answer" : "myVar1"
+     },
+     {
+          "title" : "In which year was the Python language developed?",
+          "answer_1" : "1972",
+          "answer_2" : "1989",
+          "answer_3" : "1964",
+          "answer_4" : "1997",
+          "right_answer" : "1989"
+     },
+     {
+          "title" : "Which one of the following is the correct extension of the Python file?",
+          "answer_1" : ".py",
+          "answer_2" : ".python",
+          "answer_3" : ".p",
+          "answer_4" : "None of this",
+          "right_answer" : ".py"
+     },
+     {
+          "title" : "Which of the following declarations is incorrect?",
+          "answer_1" : "_x = 2",
+          "answer_2" : "x_ = 3",
+          "answer_3" : "xy@z = 5",
+          "answer_4" : "None of this",
+          "right_answer" : "None of this"
+     },
+     {
+          "title" : "Which of the following is not a keyword in Python language?",
+          "answer_1" : "with",
+          "answer_2" : "raise",
+          "answer_3" : "val",
+          "answer_4" : "try",
+          "right_answer" : "val"
+     },
+     {
+          "title" : "Which of the following operators is the correct option for power(ab)?",
+          "answer_1" : "a ^ b",
+          "answer_2" : "a * b",
+          "answer_3" : "a & b",
+          "answer_4" : "a**b",
+          "right_answer" : "a**b"
+     },
+     {
+          "title" : "What will be the output of all([2,4,0,6]) ?",
+          "answer_1" : "False",
+          "answer_2" : "True",
+          "answer_3" : "0",
+          "answer_4" : "Invalid code",
+          "right_answer" : "False"
+     }
+]

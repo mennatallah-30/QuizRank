@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quiz app</title>
+    <link rel="stylesheet" href="./styles/style.css" />
+    <link rel="stylesheet" href="./styles/mediaQ.css" />
+  </head>
+  <body>
+    <div id="container">
+      <!-- =========== START =========== -->
+      <div id="start" class="page">
+        <h1>QuizRank</h1>
+        <p>
+          Challanging Quastions<br />
+          for programmers
+        </p>
+        <form action="">
+          <input type="text" id="nameInput" required placeholder="Enter your name" spellcheck="false" autocomplete="off"/>
+          <button>START</button>
+        </form>
+      </div>
+      <!-- =========== HOME =========== -->
+      <div id="home" class="page">
+        <h1>Let's Play</h1>
+        <div class="cards">
+          <figure class="card" lang="py">
+            <img class="logo" src="./icons/py.png" alt="C++" />
+            <h1>Python</h1>
+            <h2>12 Questions</h2>
+            <h3>Difficulty : easy</h3>
+          </figure>
+          <figure class="card" lang="js">
+            <img class="logo" src="./icons/js.png" alt="C++" />
+            <h1>JavaScript</h1>
+            <h2>24 Questions</h2>
+            <h3>Difficulty : meduim</h3>
+          </figure>
+          <figure class="card" lang="c++">
+            <img class="logo" src="./icons/C++.png" alt="C++" />
+            <h1>C++</h1>
+            <h2>32 Questions</h2>
+            <h3>Difficulty : hard</h3>
+          </figure>
+        </div>
+      </div>
+      <!-- =========== QUESTION =========== -->
+      <div id="question" class="page">
+        <div class="time">
+          <h1>2:00</h1>
+          <img src="./icons/clock.png" alt="clock icon" />
+        </div>
+        <form action="" id="qsForm">
+          <h1>
+            Question <span id="qNumber">1</span> of <span id="qsCount">32</span>
+          </h1>
+          <h2></h2>
+          <div class="choices-container"></div>
+          <button id="submitBtn" type="submit">Submit</button>
+        </form>
+      </div>
+      <!-- =========== RESULT =========== -->
+      <div id="result" class="page">
+        <div class="info">
+          <img src="./imgs/c++ logo.png" alt="language logo" class="left" />
+          <div class="right">
+            <div id="playerName">Ahmed Mahmoud Ahmed</div>
+            <div class="bottom">
+              <div class="bar">
+                <div class="child-bar"></div>
+              </div>
+              <div class="score">
+                <div class="number">
+                  <span>0</span>/<span class="allQ">0</span>
+                </div>
+                <div class="rank">Good</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="total-result">
+          <h1>Total Score</h1>
+          <h2>73</h2>
+          <button onclick="location.reload()">Try Again</button>
+        </div>
+        <ul class="result-calc">
+          <li>
+            <div class="left">Answered Questions</div>
+            <div class="right">
+              <span id="rAnswersPoints">0</span>
+              <img src="./imgs/coin.png" alt="coin icon" />
+            </div>
+          </li>
+          <li>
+            <div class="left">Saved Time</div>
+            <div class="right">
+              <span id="timePoints">0</span>
+              <img src="./imgs/coin.png" alt="coin icon" />
+            </div>
+          </li>
+        </ul>
+        <div id="wrongAnswers">
+          <div class="title">Wrong Answers</div>
+          <div class="scroll-down">
+            Scroll Down
+            <img src="./icons/scroll.png" alt="scroll icon" />
+          </div>
+          <div id="wrongContainer"></div>
+        </div>
+      </div>
+    </div>
+
+    <script src="./main.js"></script>
+  </body>
+</html>

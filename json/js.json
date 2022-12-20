@@ -1,0 +1,194 @@
+[
+     {
+          "title" : "Inside which HTML element do we put the JavaScript?",
+          "answer_1" : "&lt;scripting&gt;",
+          "answer_2" : "&lt;js&gt;",
+          "answer_3" : "&lt;script&gt;",
+          "answer_4" : "&lt;javaScript&gt;",
+          "right_answer" : "&lt;script&gt;"
+     },
+     {
+          "title" : "What is the correct syntax for referring to an external script called \"index.js\"?",
+          "answer_1" : "&lt;script alt=\"index.js\"&gt;",
+          "answer_2" : "&lt;script url=\"index.js\"&gt;",
+          "answer_3" : "&lt;script src=\"index.js\"&gt;",
+          "answer_4" : "&lt;script href=\"index.js\"&gt;",
+          "right_answer" : "&lt;script src=\"index.js\"&gt;"
+     },
+     {
+          "title" : "How do you write \"Hello World\" in an alert box?",
+          "answer_1" : "msgBox(\"index.js\")",
+          "answer_2" : "console.log(\"index.js\")",
+          "answer_3" : "alert(\"index.js\")",
+          "answer_4" : "prompt(\"index.js\")",
+          "right_answer" : "alert(\"index.js\")"
+     },
+     {
+          "title" : "How do you create a function in JavaScript?",
+          "answer_1" : "function myFunction()",
+          "answer_2" : "function : myFunction()",
+          "answer_3" : "void myFunction()",
+          "answer_4" : "function = myFunction()",
+          "right_answer" : "function myFunction()"
+     },
+     {
+          "title" : "Which type of JavaScript language is ?",
+          "answer_1" : "Object-Oriented",
+          "answer_2" : "Object-Based",
+          "answer_3" : "Procedural",
+          "answer_4" : "Functional",
+          "right_answer" : "Object-Based"
+     },
+     {
+          "title" : "The \"function\" and \"var\" are known as: ?",
+          "answer_1" : "Keywords",
+          "answer_2" : "Data types",
+          "answer_3" : "Declaration statements",
+          "answer_4" : "Prototypes",
+          "right_answer" : "Declaration statements"
+     },
+     {
+          "title" : "Which of the following number object function returns the value of the number ?",
+          "answer_1" : "toString()",
+          "answer_2" : "valueOf()",
+          "answer_3" : "toLocalString()",
+          "answer_4" : "toIntger()",
+          "right_answer" : "valueOf()"
+     },
+     {
+          "title" : "Choose the correct way to check if the variable \"a\" is not equal the \"null\"?",
+          "answer_1" : "if(a!==null)",
+          "answer_2" : "if (a!)",
+          "answer_3" : "if(a!null)",
+          "answer_4" : "if(a!=null)",
+          "right_answer" : "if(a!==null)"
+     },
+     {
+          "title" : "The \"new Point(3,2)\" is a kind of what ?",
+          "answer_1" : "Object Creation Expression",
+          "answer_2" : "Primary Expression",
+          "answer_3" : "Invocation Expression",
+          "answer_4" : "Constructor Calling Expression",
+          "right_answer" : "Object Creation Expression"
+     },
+     {
+          "title" : "Which one of the following is used to check weather a specific property exists or not ?",
+          "answer_1" : "exist",
+          "answer_2" : "isExist",
+          "answer_3" : "within",
+          "answer_4" : "in",
+          "right_answer" : "in"
+     },
+     {
+          "title" : "What we will get if we compare the \"a\" with \"8\" using the less than operator (\"a\"<8) ?",
+          "answer_1" : "False",
+          "answer_2" : "True",
+          "answer_3" : "Nan",
+          "answer_4" : "Undefind",
+          "right_answer" : "False"
+     },
+     {
+          "title" : "Which one of the following operator returns false if both values are equal ?",
+          "answer_1" : "!",
+          "answer_2" : "!=",
+          "answer_3" : "==",
+          "answer_4" : "None of this",
+          "right_answer" : "!="
+     },
+     {
+          "title" : "Which one of the following symbol is used for creating comments in the javascript ?",
+          "answer_1" : "#",
+          "answer_2" : "//",
+          "answer_3" : "$",
+          "answer_4" : "None of this",
+          "right_answer" : "//"
+     },
+     {
+          "title" : "What will be the output of ('2' == 2) ?",
+          "answer_1" : "Nan",
+          "answer_2" : "Undefind",
+          "answer_3" : "True",
+          "answer_4" : "False",
+          "right_answer" : "True"
+     },
+     {
+          "title" : "Which of the following is used to access HTML elements using JS ?",
+          "answer_1" : "getElementById()",
+          "answer_2" : "querySelector()",
+          "answer_3" : "Both A & B",
+          "answer_4" : "None of this",
+          "right_answer" : "Both A & B"
+     },
+     {
+          "title" : "How can a datatype be declared to be a constant type ?",
+          "answer_1" : "let",
+          "answer_2" : "const",
+          "answer_3" : "Both A & B",
+          "answer_4" : "None of this",
+          "right_answer" : "const"
+     },
+     {
+          "title" : "What will be the output of console.log(typeof NaN) ?",
+          "answer_1" : "Number",
+          "answer_2" : "Undefind",
+          "answer_3" : "Null",
+          "answer_4" : "None of this",
+          "right_answer" : "Number"
+     },
+     {
+          "title" : "Which function is used to serialize an object into a JSON string in JS ?",
+          "answer_1" : "parse()",
+          "answer_2" : "stringify()",
+          "answer_3" : "convert()",
+          "answer_4" : "stringOf()",
+          "right_answer" : "stringify()"
+     },
+     {
+          "title" : "Which of the following is not a Javascript framework ?",
+          "answer_1" : "Node",
+          "answer_2" : "React",
+          "answer_3" : "Vue",
+          "answer_4" : "Laravel",
+          "right_answer" : "Laravel"
+     },
+     {
+          "title" : "How to stop an interval timer in JS ?",
+          "answer_1" : "clearInterval()",
+          "answer_2" : "clear()",
+          "answer_3" : "stopInterval()",
+          "answer_4" : "intervalOver()",
+          "right_answer" : "clearInterval()"
+     },
+     {
+          "title" : "What does … operator do in JS ?",
+          "answer_1" : "dataType",
+          "answer_2" : "Spread iterables",
+          "answer_3" : "No such operater exist",
+          "answer_4" : "None of this",
+          "right_answer" : "Spread iterables"
+     },
+     {
+          "title" : "What will be the output of console.log(typeof null) ?",
+          "answer_1" : "Number",
+          "answer_2" : "Object",
+          "answer_3" : "Undefind",
+          "answer_4" : "None of this",
+          "right_answer" : "Object"
+     },
+     {
+          "title" : "A set of unordered properties that, has a name and value is called ?",
+          "answer_1" : "Number",
+          "answer_2" : "Object",
+          "answer_3" : "String",
+          "answer_4" : "Array",
+          "right_answer" : "Object"
+     },
+     {
+          "title" : "The linkage of a set of prototype objects is known as ?",
+          "answer_1" : "prototype stack",
+          "answer_2" : "prototype",
+          "answer_3" : "prototype class",
+          "answer_4" : "prototype chain",
+          "right_answer" : "prototype chain"
+     }
+]
